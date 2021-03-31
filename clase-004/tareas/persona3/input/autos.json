@@ -1,0 +1,28 @@
+[{
+  "marca": "Peugeot",
+  "modelo": "307",
+  "valor": 325000,
+  "año": 2016,
+  "tipoSeguro": "TR"
+},
+{
+  "marca": "Renault",
+  "modelo": "Duster 2.0 4X4 PRIVILEGE",
+  "valor": 707000,
+  "año": 2015,
+  "tipoSeguro": "TC"
+},
+{
+  "marca": "Ford",
+  "modelo": "Focus 5P 1.6 Ambiente",
+  "valor": 385000,
+  "año": 2020,
+  "tipoSeguro":"TR"
+},
+{
+  "marca": "Citroën",
+  "modelo": "C3 Aircross",
+  "valor": 464900,
+  "año": 2013,
+  "tipoSeguro":"CT"
+}]

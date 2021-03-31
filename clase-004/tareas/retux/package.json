@@ -1,0 +1,14 @@
+{
+  "name": "segurola",
+  "version": "0.0.1",
+  "description": "Lee datos de entrada desde archivos y calcula precios de seguros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "segurola"
+  ],
+  "author": "retux",
+  "license": "GPL-3.0-or-later"
+}

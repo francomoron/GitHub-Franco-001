@@ -1,0 +1,20 @@
+[
+  {
+     "marca": "Fiat",
+    "modelo": "600",
+    "fabricadoen": 1983,
+    "valor": 33000 
+  },
+  { 
+    "marca": "Fiat",
+    "modelo": "147",
+    "fabricadoen": 1993,
+    "valor": 33000 
+  },
+  { 
+    "marca": "Rastrojero",
+    "modelo": "Sedan 4P",
+    "fabricadoen": 1976,
+    "valor": 38000 
+  }
+]
