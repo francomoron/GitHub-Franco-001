@@ -1,0 +1,12 @@
+{
+  "hola": "mundo",
+  "entero": 1,
+  "boolean": true,
+  "objetos": {
+    "chau": 1
+  },
+  "array": [
+    "retux",
+    "seba"
+  ]
+}
